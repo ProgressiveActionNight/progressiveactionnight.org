@@ -1,9 +1,9 @@
 port:  4000
 markdown: kramdown
-name: Progressive Hacknight
-url: http://www.progressivehacknight.org
-title: Progressive Hacknight
-description: "Progressive HackNight is a bi-weekly gathering of coders and creatives, makers and doers, to foment and inspire action. We use our collective talents and abilities to push forward  pro-social change in benefit of the common good."
+name: Progressive Action Night
+url: http://www.progressiveactionnight.org
+title: Progressive Action Night
+description: "To help coordinate and facilitate NYC trainings in preparation for the midterm elections and other important struggles, we are organizing a series of biweekly trainings and actions on Monday nights -- under the guise of Progressive Action Nights."
 encoding: utf-8
 timezone: America/New York
 plugins_dir:
