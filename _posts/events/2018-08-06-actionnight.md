@@ -4,7 +4,7 @@ categories:
   - events
 links:
 title: "Action Groups Network – August 6 Action Night"
-description: "We're up for another Action Night! ThoughtWorks will be available to organizations and volunteers looking to do “afterwork activism” -- volunteers who want to stop by, grab a snack, get trained, learn how to plug in, and do some work.
+description: "We're up for another Action Night! The space will be available to organizations and volunteers looking to do “afterwork activism” -- volunteers who want to stop by, grab a snack, get trained, learn how to plug in, and do some work.
 
 Fill out the form to get your organization started."
 speakers: "Action Groups Network"
@@ -25,9 +25,9 @@ To help coordinate and facilitate NYC trainings in preparation for the midterm e
 
 The goal of the series, based on Progressive Hack Night, will be to systematize, coordinate, and maximize the effectiveness training opportunities and actions for volunteers and organizations looking to mobilize volunteers for the midterm elections.
 
-During these nights, ThoughtWorks will be available to organizations and volunteers looking to do “afterwork activism” -- volunteers who want to stop by, grab a snack, get trained, learn how to plug in, and do some work.
+During these nights, the space will be available to organizations and volunteers looking to do “afterwork activism” -- volunteers who want to stop by, grab a snack, get trained, learn how to plug in, and do some work.
 
-#### **[Follow us on Meet-Up](www.meetup.com/Progressive-Action-Nights)**
+#### **[Follow us on Meet-Up](//www.meetup.com/Progressive-Action-Nights)**
 
 If you have an organization that is looking for a space to train, or are connected to groups of volunteers, please feel free to contact Duncan (k.duncan.wall (at) gmail (dot) com) or Rapi (rapicastillo (at) gmail (dot) com).
 
