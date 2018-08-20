@@ -12,7 +12,7 @@ image: /images/events/agn.png
 date: 2018-08-20T18:30:00
 event_id: 4
 youtube_id:
-agenda: https://docs.google.com/forms/d/199tNQLkHzXmQKWTVkgRLsbKZ35_J3g5jgDVBFrVSBrQ/edit?usp=drive_web
+agenda: http://progressiveactionnight.org/join.html
 rsvp: https://www.meetup.com/Progressive-Action-Nights/events/fptqbqyxlbjb/
 sponsor:
 asl_provided: false
