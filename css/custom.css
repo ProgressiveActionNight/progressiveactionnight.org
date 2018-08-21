@@ -205,7 +205,7 @@ margin-top: 15px;
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
-  .navbar-brand img { height: 80px; }
+  .navbar-brand img { height: 100px; }
 
   /* Remove the padding we set earlier */
   .header,
