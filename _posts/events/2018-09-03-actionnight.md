@@ -9,7 +9,7 @@ description: "We're up for another Action Night! The space will be available to 
 Fill out the form to get your organization started."
 speakers: ""
 image: /images/events/agn.png
-date: 2018-08-20T18:30:00
+date: 2018-09-03T18:30:00
 event_id: 4
 youtube_id:
 agenda: http://progressiveactionnight.org/join.html
