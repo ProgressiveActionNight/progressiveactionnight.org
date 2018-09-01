@@ -21,7 +21,11 @@ slidedeck_link:
 published: true
 ---
 
-Join us for our next Progressive Action Night, our biweekly series of actions, study groups, and trainings supporting grassroots and progressive campaigns and causes!
+Join us for our next Progressive Action Night, our biweekly series of actions, study groups, and trainings supporting grassroots and progressive campaigns and causes!  
+
+* Media Training // Rise & Resist -- Learn how to more successfully engage the press for your cause or candidate.
+
+  * Text banking // MoveOn -- On Monday, we will be doing a two hour texting session with the MoveOn Text Team. With the 2018 elections rapidly approaching, the MoveOn texting team has kicked off an ambitious campaign to build progressive power by texting millions of voters in key House districts to "pledge to vote" and to join our MoveOn texting list, with the goal of building our base of volunteers which we can then plug into all of MoveOn’s massive 2018 elections campaigns to ensure we end GOP control of the House and flip key state governments blue!
 
 #### **[Sign your organization up to use the space](https://docs.google.com/forms/d/199tNQLkHzXmQKWTVkgRLsbKZ35_J3g5jgDVBFrVSBrQ/edit)**
 
