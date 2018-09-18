@@ -21,6 +21,9 @@ published: true
 
 Join us for Progressive Action Night, our series of actions, study groups, and trainings supporting grassroots and progressive campaigns and causes!
 
+• Flip Long Island & United Thru Action Voter Education -- We are mobilizing NYers to help Democrats win key State Senate races across Long Island. Join us for an evening of discussion with LI candidates Monica Martinez (SD3), John Brooks (SD8) and Anna Kaplan (SD7). Learn about these key races and how we in the NYC can help to flip Long Island and NY State to the Democrats.
+
+
 [**Sign your organization up to use the space**](https://docs.google.com/forms/d/199tNQLkHzXmQKWTVkgRLsbKZ35_J3g5jgDVBFrVSBrQ/edit)
 
 ## About the Series
