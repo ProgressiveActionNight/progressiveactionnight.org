@@ -3,15 +3,15 @@ layout: event
 categories:
   - events
 links:
-title: "Progressive Action Night - October 1, 2018"
+title: "Progressive Action Night - October 15, 2018"
 description: "Join us for Progressive Action Night, our series of actions, study groups, and trainings supporting grassroots and progressive campaigns and causes!"
 speakers: ""
 image: /images/events/agn.png
-date: 2018-10-01T18:30:00
-event_id: 4
+date: 2018-10-15T18:30:00
+event_id: 5
 youtube_id:
 agenda: http://progressiveactionnight.org/join.html
-rsvp: https://www.eventbrite.com/e/progressive-action-night-october-1-2018-tickets-50407575415
+rsvp: https://www.meetup.com/Progressive-Action-Nights/events/fptqbqyxnbtb/
 sponsor:
 asl_provided: false
 has_slides: false
@@ -20,8 +20,6 @@ published: true
 ---
 
 Join us for Progressive Action Night, our series of actions, study groups, and trainings supporting grassroots and progressive campaigns and causes!
-
-• Flip Long Island & United Thru Action Voter Education -- We are mobilizing NYers to help Democrats win key State Senate races across Long Island. Join us for an evening of discussion with LI candidates Monica Martinez (SD3), John Brooks (SD8) and Anna Kaplan (SD7). Learn about these key races and how we in the NYC can help to flip Long Island and NY State to the Democrats.
 
 
 [**Sign your organization up to use the space**](https://docs.google.com/forms/d/199tNQLkHzXmQKWTVkgRLsbKZ35_J3g5jgDVBFrVSBrQ/edit)
